@@ -21,46 +21,32 @@ I'm Stephanie, a **Software Development student at Brigham Young University-Idah
 - **DIY Tech Projects:** Hands-on projects combining creativity with technical skills to explore new ideas and solutions.  
 - **Customer Support Tools:** Developed workflows and guides to improve customer experience and efficiency in technical support roles.
 
+CSE 212 – Data Structures Projects --> https://github.com/Stephanie8726/cse212-projects
+(Practice exercises and implementations for core data structures like stacks, queues, and trees in Python).
 
-CSE 212 – Data Structures Projects
+WDD 430 – Advanced Web Development --> https://github.com/Stephanie8726/wdd430hw
+(focusing on modern full-stack web development using frameworks and APIs).
 
-Practice exercises and implementations for core data structures like stacks, queues, and trees in Python.
+React To-Do List App --> https://github.com/Stephanie8726/react-todo-list
+(A simple and responsive task management app built with React and hooks for state management).
 
-WDD 430 – Advanced Web Development
+CSE 341 – Web Services Project --> https://github.com/Stephanie8726/CSE-341-Project-2
+(Node.js and Express-based REST API project demonstrating CRUD operations and MongoDB integration).
 
-Coursework focusing on modern full-stack web development using frameworks and APIs.
+WDD 131 – Dynamic Web Fundamentals --> https://github.com/Stephanie8726/CSE-341-Project-2
+(exploring DOM manipulation, responsive layouts, and JavaScript interactivity).
 
-React To-Do List App
+WDD 330 – Front-End Development Project --> https://github.com/Stephanie8726/wdd330-project
+(front-end web project showcasing HTML, CSS, and JavaScript skills).
 
-A simple and responsive task management app built with React and hooks for state management.
+CSE 121B – JavaScript Programming --> https://github.com/Stephanie8726/cse121b
+(Programming exercises and examples for mastering core JavaScript concepts).
 
-CSE 341 – Web Services Project
+WDD 230 – Web Frontend Development --> https://github.com/Stephanie8726/wdd230
+(responsive design, accessibility, and modern CSS practices).
 
-Node.js and Express-based REST API project demonstrating CRUD operations and MongoDB integration.
-
-WDD 131 – Dynamic Web Fundamentals
-
-Assignments and projects exploring DOM manipulation, responsive layouts, and JavaScript interactivity.
-
-WDD 330 – Front-End Development Project
-
-A personal front-end web project showcasing HTML, CSS, and JavaScript skills.
-
-CSE 121B – JavaScript Programming
-
-Programming exercises and examples for mastering core JavaScript concepts.
-
-WDD 230 – Web Frontend Development
-
-Course projects emphasizing responsive design, accessibility, and modern CSS practices.
-
-WDD 330 – Web Development II
-
-A continuation of WDD 230 focusing on advanced JavaScript and modular app design.
-
-CSE 210 – Programming with Classes
-
-Object-oriented programming assignments using Python to apply encapsulation, inheritance, and polymorphism.
+CSE 210 – Programming with Classes --> https://github.com/Stephanie8726/wdd230
+(Object-oriented programming assignments using Python to apply encapsulation, inheritance, and polymorphism).
 
 
 
