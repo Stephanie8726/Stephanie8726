@@ -2,8 +2,6 @@
 
 # Stephanie Dacullo Selanoba
 
-Hello, GitHub! 👋
-
 I'm Stephanie, a **Software Development student at Brigham Young University-Idaho** with a passion for technology, problem-solving, and learning how systems work. Welcome to my GitHub profile!
 
 ## About Me
